@@ -67,6 +67,22 @@ Currently, I am working at Scotia Contacto, and I am also open to freelance oppo
 
 <br>
 
-## Some Projects :
+## Some Projects 🚀 :
+
+<br>
+
+- 🔹 **Schematization and Modeling of a Database**  
+  https://github.com/David29032003/EsquematizacionDeUnaTablaDeDatos
+
+- 🔹 **Analysis of Admission and Enrollment at UNI with Power BI**  
+  https://github.com/David29032003/Proyecto-Reporte
+
+- 🔹 **ETL Process in SQL Server for a Labor Force (EAP) Dataset**  
+  https://github.com/David29032003/ProcesoETLParaTablaDeDatos
+
+- 🔹 **Hybrid Recommendation System for Movie Recommendations**  
+  https://github.com/David29032003/Proyecto-ACECOM
+
+<br>
 
 
