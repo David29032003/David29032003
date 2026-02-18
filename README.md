@@ -5,10 +5,11 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Data Management intern** at [Scotiabank S.S.A.](https://www.linkedin.com/company/scotiabank/)
-- 🏢 I studie the **Computer Science** degree at [National University of Enfineering](https://www.linkedin.com/school/universidad-nacional-de-ingenieria-de-peru-/posts/?feedView=all)
-- 🏡'Lives in **Lima**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+I am a Computer Science undergraduate at the National University of Engineering with hands-on experience in Artificial Intelligence and Data Science projects, as well as professional exposure in the banking industry. I have developed strong analytical and technical skills through the use of Python, R, SQL, Excel, and Power BI, along with a solid foundation in descriptive and inferential statistics, machine learning, and linear algebra.
+
+I thrive in collaborative environments and genuinely enjoy contributing to team success. I value continuous learning and take pride in both sharing knowledge and learning from others. With a strong service mindset and a proactive attitude toward new challenges, I am committed to delivering impactful results.
+
+Currently, I am working at Scotia Contacto, and I am also open to freelance opportunities in AI and Data Science projects.
 
 <br>
 
@@ -16,7 +17,9 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/david-fernando-reeves-go%C3%B1i-b7a3b0258/) 
+[![@WhatsApp](https://img.icons8.com/fluency/48/000000/whatsapp.png "@WhatsApp")](https://wa.me/51914499487) 
+[![@davidreevesloteriadv@gmail.com](https://img.icons8.com/fluency/48/000000/gmail-new.png "@davidreevesloteriadv@gmail.com")](mailto:davidreevesloteriadv@gmail.com)
 
 <br>
 
@@ -24,13 +27,42 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+<!-- Lenguajes y Bases de Datos -->
+<img src="https://img.icons8.com/color/48/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/sql.png"/>
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
+<img src="https://img.icons8.com/color/48/postgreesql.png"/>
+<img src="https://img.icons8.com/color/48/r-project.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<!-- BI -->
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://img.icons8.com/color/48/ms-excel.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<!-- Machine Learning -->
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
+<img src="https://img.icons8.com/color/48/neural-network.png"/>
+
+<!-- Data Engineering -->
+<img src="https://img.icons8.com/color/48/data-configuration.png"/>
+
+<!-- IDEs -->
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/visual-studio.png"/>
+
+<!-- Version Control -->
+<img src="https://img.icons8.com/color/48/github--v1.png"/>
+
+<!-- Matemática -->
+<img src="https://img.icons8.com/color/48/combo-chart.png"/>
+<img src="https://img.icons8.com/color/48/matrix.png"/>
+
+<!-- Cloud -->
+<img src="https://img.icons8.com/color/48/google-cloud.png"/>
+<img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+
+</div>
 
 <br>
 
